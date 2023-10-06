@@ -1,0 +1,14 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\bin\Debug\net6.0\0921 class.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\bin\Debug\net6.0\0921 class.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\bin\Debug\net6.0\0921 class.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\bin\Debug\net6.0\0921 class.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\bin\Debug\net6.0\0921 class.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\refint\0921 class.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\0921 class.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week7- function\0921 class\obj\Debug\net6.0\ref\0921 class.dll
